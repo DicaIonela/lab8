@@ -1,0 +1,11 @@
+10;skhd;gfd;;0
+120;Ionescu;Ion;8;0
+120;ionescu;ion;;0
+120;ion;alin;8;0
+12;sd;fds;5 6 7;0
+435;dfff;fdgbdf;6 7 9;0
+120;ion;alin;4 5 8;0
+120;ion;alin;4 5 8;0
+120;ion;alin;4 5 8;0
+120;ion;alin;4 5 8;0
+120;ion;alin;4 5 8;0

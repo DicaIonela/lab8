@@ -1,0 +1,12 @@
+C:\Users\Student\Downloads\AplicatieDemoPIU_2024-main\EvidentaStudenti\EvidentaStudenti\bin\Debug\EvidentaStudenti.exe.config
+C:\Users\Student\Downloads\AplicatieDemoPIU_2024-main\EvidentaStudenti\EvidentaStudenti\bin\Debug\EvidentaStudenti.exe
+C:\Users\Student\Downloads\AplicatieDemoPIU_2024-main\EvidentaStudenti\EvidentaStudenti\bin\Debug\EvidentaStudenti.pdb
+C:\Users\Student\Downloads\AplicatieDemoPIU_2024-main\EvidentaStudenti\EvidentaStudenti\bin\Debug\LibrarieModele.dll
+C:\Users\Student\Downloads\AplicatieDemoPIU_2024-main\EvidentaStudenti\EvidentaStudenti\bin\Debug\NivelStocareDate.dll
+C:\Users\Student\Downloads\AplicatieDemoPIU_2024-main\EvidentaStudenti\EvidentaStudenti\bin\Debug\LibrarieModele.pdb
+C:\Users\Student\Downloads\AplicatieDemoPIU_2024-main\EvidentaStudenti\EvidentaStudenti\bin\Debug\NivelStocareDate.pdb
+C:\Users\Student\Downloads\AplicatieDemoPIU_2024-main\EvidentaStudenti\EvidentaStudenti\obj\Debug\EvidentaStudenti.csproj.AssemblyReference.cache
+C:\Users\Student\Downloads\AplicatieDemoPIU_2024-main\EvidentaStudenti\EvidentaStudenti\obj\Debug\EvidentaStudenti.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\AplicatieDemoPIU_2024-main\EvidentaStudenti\EvidentaStudenti\obj\Debug\EvidentaStudenti.csproj.CopyComplete
+C:\Users\Student\Downloads\AplicatieDemoPIU_2024-main\EvidentaStudenti\EvidentaStudenti\obj\Debug\EvidentaStudenti.exe
+C:\Users\Student\Downloads\AplicatieDemoPIU_2024-main\EvidentaStudenti\EvidentaStudenti\obj\Debug\EvidentaStudenti.pdb
